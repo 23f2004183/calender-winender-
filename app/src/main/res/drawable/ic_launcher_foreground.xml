@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Crossed Sword 1 (Electric Cyan) -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M 31,31 L 77,77 L 73,81 L 27,35 Z" />
+    <path
+        android:fillColor="#FF2C85"
+        android:pathData="M 29,39 L 39,29 L 43,33 L 33,43 Z" />
+
+    <!-- Crossed Sword 2 (Neon Pink) -->
+    <path
+        android:fillColor="#FF2C85"
+        android:pathData="M 77,31 L 31,77 L 27,73 L 73,27 Z" />
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M 71,29 L 81,39 L 77,43 L 67,33 Z" />
+
+    <!-- Shield Outline (Crown S-Rank Gold) -->
+    <path
+        android:fillColor="#FFFFC700"
+        android:pathData="M 54,20 L 80,30 L 80,60 C 80,80 54,92 54,92 C 54,92 28,80 28,60 L 28,30 Z" />
+
+    <!-- Shield Inner Core (Midnight Guild Purple) -->
+    <path
+        android:fillColor="#1B1D36"
+        android:pathData="M 54,24 L 74,32 L 74,58 C 74,74 54,84 54,84 C 54,84 34,74 34,58 L 34,32 Z" />
+
+    <!-- Center Mystic Star (Electric Cyan) -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M 54,36 L 58,46 L 68,46 L 60,52 L 63,62 L 54,56 L 45,62 L 48,52 L 40,46 L 50,46 Z" />
+</vector>
